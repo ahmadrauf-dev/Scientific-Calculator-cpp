@@ -1,6 +1,6 @@
 # Scientific Calculator C++ v1.0
 
-terminal Based Scientific Calculator written in C++.It supports various mathematical functions with input validations and error 
+Terminal Based Scientific Calculator built in C++.It supports various mathematical functions with input validations and error 
 handling
 
 ## Features
